@@ -45,7 +45,7 @@ Este é um aplicativo web para criação, gerenciamento e venda de ingressos par
 
 4. **Acesse o app no navegador:**
    ```
-   http://localhost:3000
+   [http://localhost:3000](https://event-pro-4ce7c4f6.base44.app/Dashboard)
    ```
 
 ## Estrutura do projeto

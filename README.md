@@ -45,7 +45,7 @@ Este é um aplicativo web para criação, gerenciamento e venda de ingressos par
 
 4. **Acesse o app no navegador:**
    ```
-   [http://localhost:3000](https://event-pro-4ce7c4f6.base44.app/Dashboard)
+   https://event-pro-4ce7c4f6.base44.app/Dashboard
    ```
 
 ## Estrutura do projeto
@@ -58,7 +58,8 @@ Este é um aplicativo web para criação, gerenciamento e venda de ingressos par
 
 ## Exemplo de uso
 
-![Screenshot do EVENTPRO]
+<img width="1359" height="580" alt="image" src="https://github.com/user-attachments/assets/d8076934-594f-40ab-98e3-78c734d6e8ad" />
+
 
 ## Contribuição
 
